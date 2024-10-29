@@ -4,3 +4,4 @@ This is a course designed by one of the most popular online learning platforms f
 1. Day 1:  
 Solving an unknown number (numerator or denominator) of a proportion with Python.  
 2. Day 2:  
+How to solve for X
